@@ -361,14 +361,14 @@ function artistByCountry(array, nationality) {
   }
   return nationArr2
 }
-console.log('T9:', artistByCountry(artists, 'Spanish')
+console.log('T9:', artistByCountry(artists, 'Spanish'))
 
 /* ***** END OF TASKS ***** */
 
 
 
 /* 🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑*/
-function foo() {
+function foo(){
   console.log('its working');
   return 'bar';
 }
